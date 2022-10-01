@@ -6,4 +6,4 @@
 ### WhatsApp/Call: +2348176881172
 
 ## Take a sneek peek 
-![rubbyportfolio presentation](__portfolio/__sample/Moodboard)
+![rubbyportfolio presentation](__portfolio/__sample/Moodboard.png)
